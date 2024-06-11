@@ -1,3 +1,7 @@
+/* Write a Program using C++ that inputs any positive integer
+   and print whether it is Odd or not using IF-Else Structure. 
+*/
+
 #include<iostream>
 using namespace std;
 int main()

@@ -1,20 +1,21 @@
 /* Write a Program using C++ that inputs any positive integer
-   and print its factorial using for loop. 
+   and print its factorial using while loop. 
 */
 
 #include<iostream>
 using namespace std;
 int main()
 {
-
-    int num , fact = 1 ; 
+    int num , s ,  fact = 1 ; 
 
     cout<<"Enter an Positive Number : " ;
     cin>>num ; 
 
-    for(int i = 1 ; i <= num ; i++)
+    s = 1 ; 
+    while( s <= num )
     {
-        fact = fact * i ; 
+        fact = fact * s ; 
+        s = s + 1 ; 
     }
 
     cout<<"Factorial of " << num << " is : "<<fact<<endl;
