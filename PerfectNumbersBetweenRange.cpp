@@ -1,5 +1,6 @@
-/* Write a C++ program to input starting and ending range and 
-   prints all Perfect Numbers between given Range.
+/* 
+   Write a C++ program to input starting and ending range/limit and prints all 
+   Perfect Numbers between given Range.
 */
 
 #include<iostream>

@@ -1,6 +1,6 @@
-
-/* Write a program using C++ that inputs end/limit of loop
-   and print all numbers factorial from 1 to input limit. 
+/* 
+   Write a Program using C++ that inputs end/limit of loop and prints factorial of 
+   all numbers from 1 to input limit. 
 */
 
 #include<iostream>

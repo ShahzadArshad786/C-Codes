@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs starting and ending range
-   and print all Odd numbers between input range. 
+/* 
+   Write a Program using C++ that inputs starting and ending range and prints all 
+   Odd numbers between input ranges.
 */
 
 #include<iostream>

@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs starting and ending range
-   and print all Even numbers between input range. 
+/* 
+   Write a Program using C++ that inputs starting and ending range and prints all 
+   Even numbers between input ranges using loop. 
 */
 
 #include<iostream>

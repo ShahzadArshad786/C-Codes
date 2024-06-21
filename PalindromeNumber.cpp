@@ -1,5 +1,7 @@
-/* Write a C++ program to input any integer number and 
-   check whether a number is a palindrome or not.
+/* 
+   Write a C++ program to input any integer number and checks whether it is a number is a 
+   palindrome or not. A palindrome is a number that reads the same backwards as forwards 
+   such as 62526 and 4994. 
 */
 
 #include<iostream>

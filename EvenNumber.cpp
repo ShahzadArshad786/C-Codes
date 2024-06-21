@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs any positive integer
-   and print whether it is Even or not using IF-Else Structure. 
+/* 
+   Write a Program using C++ that inputs any positive integer and check whether it 
+   is an Even or not using IF-Else Structure. 
 */
 
 #include<iostream>

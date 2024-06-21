@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs any positive integer
-   and print its factorial using while loop. 
+/* 
+   Write a Program using C++ that inputs any positive integer and print its factorial 
+   using while loop. 
 */
 
 #include<iostream>

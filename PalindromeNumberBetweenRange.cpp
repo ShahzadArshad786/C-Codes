@@ -1,5 +1,6 @@
-/* Write a C++ program to input starting and ending limit from user and
-   print all palindrome numbers in a give range.
+/* 
+   Write a C++ program to input starting and ending limit from user and print all 
+   palindrome numbers in a given range.
 */
 
 #include<iostream>

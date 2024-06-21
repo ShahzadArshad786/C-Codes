@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs a starting Year and end year,
-   and displays all Leap Years between given range. 
+/* 
+   Write a Program using C++ that inputs a starting Year and end year as range for 
+   loop, and prints all Leap Years between given range. 
 */
 
 #include<iostream>

@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs any positive integer,
-   count the number of Digits in a given integer. 
+/* 
+  Write a Program using C++ that inputs any positive integer, count the total number of Digits 
+  in the given integer using loop. 
 */
 
 #include<iostream>

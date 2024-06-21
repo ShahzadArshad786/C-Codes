@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs any Year,
-   and display whether it is a leap year or not. 
+/* 
+   Write a Program using C++ that inputs any year, and checks whether it is a leap 
+   year or not using if else structure. 
 */
 
 #include<iostream>
