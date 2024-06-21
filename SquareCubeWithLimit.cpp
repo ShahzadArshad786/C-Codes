@@ -1,6 +1,6 @@
 /*
     Write a Program using C++ that inputs a Number and prints Number, Square 
-    and cube till input number using for loop. 
+    and Cube till input number using for loop. 
 */
 
 #include <iostream>
