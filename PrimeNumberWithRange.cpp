@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs starting and ending range
-   and print all Prime numbers between input range. 
+/* 
+   Write a Program using C++ that inputs two numbers as starting and ending range 
+   and prints all Prime numbers between input ranges. 
 */
 
 #include<iostream>

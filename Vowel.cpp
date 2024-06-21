@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs any single character using keyboard
-   and print whether it is vowel or not using switch Structure. 
+/* 
+   Write a Program using C++ that inputs any single character using keyboard and 
+   checks whether it is a vowel or not using switch Structure. 
 */
 
 #include<iostream>

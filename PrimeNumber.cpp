@@ -1,5 +1,6 @@
-/* Write a Program using C++ that inputs any positive integer
-   and print whether it is prime or not using for loop. 
+/* 
+   Write a Program using C++ that inputs any positive integer and print whether it 
+   is prime or not using for loop. 
 */
 
 #include<iostream>

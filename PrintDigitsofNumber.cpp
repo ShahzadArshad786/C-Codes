@@ -1,3 +1,8 @@
+/* 
+   Write a Program using C++ that inputs any positive integer number and print 
+   each digit of input number on the separate lines.  
+*/
+
 #include <iostream>
 using namespace std ;
 

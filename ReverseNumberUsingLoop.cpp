@@ -1,5 +1,7 @@
-/* Write a Program using C++ that inputs any Number ,
-   and displays all Leap Years between given range. 
+/* 
+   Write a Program using C++ that inputs a Positive Number and Reverse it. For 
+   Example if the user enters 2765, the function should reverse it so that it 
+   becomes 5672.  
 */
 
 #include <iostream>
