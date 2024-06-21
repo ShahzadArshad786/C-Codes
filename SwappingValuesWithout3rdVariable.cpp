@@ -26,7 +26,6 @@ int main()
     cout<<"\nValues After  Swapping \n\n" ;
     cout<<"X : "<<x<<endl;
     cout<<"Y : "<<y<<endl;
-    
-    
+
     return 0;
 }
